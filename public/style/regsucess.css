@@ -1,0 +1,29 @@
+.row{
+    height: 100vh;
+}
+.img,.text{
+    display: flex;
+    justify-content: center;
+}
+.text1{
+   width:75%;
+   height: 70px;
+   background-color: rgba(177, 216, 117, 0.486);
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+   padding-right: 3px;
+}
+.border{
+    box-shadow: 1px 1px 10px 1px  hsla(0, 0%, 0%, 0.616);
+    border-radius: 5px;
+}
+#verficaton{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(177, 216, 117, 0.486);
+    
+}
+#verficaton p{
+    padding-right: 5px;
+}
