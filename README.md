@@ -9,6 +9,16 @@ A small login and registration site built with Node, Express and EJS, storing us
 - Basic client-side checks on the register form (email format, matching passwords)
 - Shows messages for "email already exists", "incorrect password" and "email not found"
 
+## Screenshots
+
+Taken with a throwaway test account, not real data.
+
+| Login | Sign up |
+|---|---|
+| ![Login page](docs/screenshots/login.png) | ![Sign up page](docs/screenshots/register.png) |
+| ![Wrong password message](docs/screenshots/login-error.png) | ![Welcome page after login](docs/screenshots/welcome.png) |
+
+
 ## Tech stack
 Node.js (ES modules), Express, EJS, pg, dotenv, plain CSS and JavaScript.
 
